@@ -1,0 +1,44 @@
+{
+    "compilerOptions": {
+        "baseUrl": "." /* Specify the base directory to resolve non-relative module names. */,
+        "paths": {
+            /* Specify a set of entries that re-map imports to additional lookup locations. */
+            "@pages/*": ["src/page_factory/page_repository/*"],
+            "@pages_factory/*": ["src/page_factory/*"],
+            "@objects/*": ["src/page_factory/object_repository/*"],
+            "@libs/*": ["src/libs/*"],
+            "@utils/*": ["src/utils/*"],
+            "@data/*": ["src/data/*"],
+            "@interface/*": ["src/interface/*"],
+            "@constants/*": ["src/constants/*"]
+        },
+        "plugins": [
+            {
+                "name": "typescript-tslint-plugin",
+                "alwaysShowRuleFailuresAsWarnings": false,
+                "ignoreDefinitionFiles": true,
+                "suppressWhileTypeErrorsPresent": false
+            }
+        ]
+
+        // "sourceMap": true,
+        // "allowJs": true,
+        // "jsx": "preserve",
+        // "moduleResolution": "node",
+        // "rootDir": "src"
+        // "forceConsistentCasingInFileNames": true,
+        // "noImplicitReturns": true,
+        // "noImplicitThis": true,
+        // "noImplicitAny": true,
+        // "importHelpers": true,
+        // "strictNullChecks": true,
+        // "noUnusedLocals": true,
+        // "skipLibCheck": true,
+        // "esModuleInterop": true,
+        // "allowSyntheticDefaultImports": true,
+        // "strict": true,
+        // "resolveJsonModule": true,
+        // "isolatedModules": true,
+        // "noEmit": true
+    }
+}

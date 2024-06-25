@@ -1,0 +1,2873 @@
+{
+    "name": "Automation Report",
+    "date": 1718822514272,
+    "dateH": "6/20/2024, 12:11:54 AM",
+    "duration": 109592,
+    "durationH": "1m 50s",
+    "cwd": "C:/Users/aravi/Downloads/Projects/Projects/kissflow/kf-qa-sanity-web",
+    "outputFile": "./test-results/results/report.html",
+    "outputDir": "./test-results/results",
+    "metadata": {
+        "actualWorkers": 1
+    },
+    "system": {
+        "cpu": {
+            "color": "#117DBB",
+            "count": 12,
+            "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+            "speed": 2688
+        },
+        "mem": {
+            "color": "#8B12AE",
+            "total": 16889245696
+        },
+        "arch": "x64",
+        "platform": "win32",
+        "release": "10.0.22631",
+        "type": "Windows_NT",
+        "version": "Windows 11 Home Single Language",
+        "uptime": 260249.968,
+        "hostname": "LAPTOP-CHR3350A",
+        "pid": 27448,
+        "node": "20.14.0",
+        "v8": "11.3.244.8-node.23",
+        "timestampStart": 1718822514272,
+        "ticks": [
+            {
+                "cpu": {
+                    "percent": 6.93
+                },
+                "mem": {
+                    "free": 2415398912
+                },
+                "timestamp": 1718822516277
+            },
+            {
+                "cpu": {
+                    "percent": 8.8
+                },
+                "mem": {
+                    "free": 2014310400
+                },
+                "timestamp": 1718822518289
+            },
+            {
+                "cpu": {
+                    "percent": 6.14
+                },
+                "mem": {
+                    "free": 1911701504
+                },
+                "timestamp": 1718822520290
+            },
+            {
+                "cpu": {
+                    "percent": 9.14
+                },
+                "mem": {
+                    "free": 1893974016
+                },
+                "timestamp": 1718822522295
+            },
+            {
+                "cpu": {
+                    "percent": 8.98
+                },
+                "mem": {
+                    "free": 1932439552
+                },
+                "timestamp": 1718822524302
+            },
+            {
+                "cpu": {
+                    "percent": 8.72
+                },
+                "mem": {
+                    "free": 1913106432
+                },
+                "timestamp": 1718822526309
+            },
+            {
+                "cpu": {
+                    "percent": 7.51
+                },
+                "mem": {
+                    "free": 1853284352
+                },
+                "timestamp": 1718822528331
+            },
+            {
+                "cpu": {
+                    "percent": 9.23
+                },
+                "mem": {
+                    "free": 1868193792
+                },
+                "timestamp": 1718822530343
+            },
+            {
+                "cpu": {
+                    "percent": 9.23
+                },
+                "mem": {
+                    "free": 1902759936
+                },
+                "timestamp": 1718822532350
+            },
+            {
+                "cpu": {
+                    "percent": 9.11
+                },
+                "mem": {
+                    "free": 1880801280
+                },
+                "timestamp": 1718822534357
+            },
+            {
+                "cpu": {
+                    "percent": 9
+                },
+                "mem": {
+                    "free": 1916751872
+                },
+                "timestamp": 1718822536370
+            },
+            {
+                "cpu": {
+                    "percent": 9.01
+                },
+                "mem": {
+                    "free": 1954250752
+                },
+                "timestamp": 1718822538372
+            },
+            {
+                "cpu": {
+                    "percent": 7.27
+                },
+                "mem": {
+                    "free": 1972719616
+                },
+                "timestamp": 1718822540378
+            },
+            {
+                "cpu": {
+                    "percent": 8.06
+                },
+                "mem": {
+                    "free": 1980502016
+                },
+                "timestamp": 1718822542383
+            },
+            {
+                "cpu": {
+                    "percent": 7.53
+                },
+                "mem": {
+                    "free": 1942466560
+                },
+                "timestamp": 1718822544396
+            },
+            {
+                "cpu": {
+                    "percent": 5.72
+                },
+                "mem": {
+                    "free": 2214756352
+                },
+                "timestamp": 1718822546411
+            },
+            {
+                "cpu": {
+                    "percent": 6.48
+                },
+                "mem": {
+                    "free": 1945178112
+                },
+                "timestamp": 1718822548418
+            },
+            {
+                "cpu": {
+                    "percent": 6.75
+                },
+                "mem": {
+                    "free": 1888165888
+                },
+                "timestamp": 1718822550430
+            },
+            {
+                "cpu": {
+                    "percent": 12.23
+                },
+                "mem": {
+                    "free": 1891262464
+                },
+                "timestamp": 1718822552431
+            },
+            {
+                "cpu": {
+                    "percent": 8.44
+                },
+                "mem": {
+                    "free": 1905946624
+                },
+                "timestamp": 1718822554438
+            },
+            {
+                "cpu": {
+                    "percent": 9.54
+                },
+                "mem": {
+                    "free": 1918926848
+                },
+                "timestamp": 1718822556449
+            },
+            {
+                "cpu": {
+                    "percent": 5.86
+                },
+                "mem": {
+                    "free": 1808756736
+                },
+                "timestamp": 1718822558450
+            },
+            {
+                "cpu": {
+                    "percent": 8.85
+                },
+                "mem": {
+                    "free": 1820495872
+                },
+                "timestamp": 1718822560450
+            },
+            {
+                "cpu": {
+                    "percent": 9.14
+                },
+                "mem": {
+                    "free": 1897930752
+                },
+                "timestamp": 1718822562457
+            },
+            {
+                "cpu": {
+                    "percent": 8.87
+                },
+                "mem": {
+                    "free": 1989672960
+                },
+                "timestamp": 1718822564457
+            },
+            {
+                "cpu": {
+                    "percent": 9.08
+                },
+                "mem": {
+                    "free": 1990254592
+                },
+                "timestamp": 1718822566471
+            },
+            {
+                "cpu": {
+                    "percent": 6.96
+                },
+                "mem": {
+                    "free": 2096779264
+                },
+                "timestamp": 1718822568485
+            },
+            {
+                "cpu": {
+                    "percent": 7.75
+                },
+                "mem": {
+                    "free": 1932898304
+                },
+                "timestamp": 1718822570499
+            },
+            {
+                "cpu": {
+                    "percent": 6.93
+                },
+                "mem": {
+                    "free": 1875013632
+                },
+                "timestamp": 1718822572518
+            },
+            {
+                "cpu": {
+                    "percent": 8.62
+                },
+                "mem": {
+                    "free": 1914351616
+                },
+                "timestamp": 1718822574549
+            },
+            {
+                "cpu": {
+                    "percent": 8.61
+                },
+                "mem": {
+                    "free": 1914949632
+                },
+                "timestamp": 1718822576556
+            },
+            {
+                "cpu": {
+                    "percent": 6.26
+                },
+                "mem": {
+                    "free": 1900306432
+                },
+                "timestamp": 1718822578576
+            },
+            {
+                "cpu": {
+                    "percent": 7.93
+                },
+                "mem": {
+                    "free": 1982201856
+                },
+                "timestamp": 1718822580589
+            },
+            {
+                "cpu": {
+                    "percent": 4.36
+                },
+                "mem": {
+                    "free": 2017239040
+                },
+                "timestamp": 1718822582596
+            },
+            {
+                "cpu": {
+                    "percent": 5.85
+                },
+                "mem": {
+                    "free": 2324004864
+                },
+                "timestamp": 1718822584603
+            },
+            {
+                "cpu": {
+                    "percent": 6.39
+                },
+                "mem": {
+                    "free": 2337476608
+                },
+                "timestamp": 1718822586611
+            },
+            {
+                "cpu": {
+                    "percent": 5.98
+                },
+                "mem": {
+                    "free": 2349133824
+                },
+                "timestamp": 1718822588616
+            },
+            {
+                "cpu": {
+                    "percent": 8.19
+                },
+                "mem": {
+                    "free": 2370928640
+                },
+                "timestamp": 1718822590630
+            },
+            {
+                "cpu": {
+                    "percent": 9.26
+                },
+                "mem": {
+                    "free": 2385195008
+                },
+                "timestamp": 1718822592644
+            },
+            {
+                "cpu": {
+                    "percent": 15.59
+                },
+                "mem": {
+                    "free": 2195546112
+                },
+                "timestamp": 1718822594655
+            },
+            {
+                "cpu": {
+                    "percent": 8.96
+                },
+                "mem": {
+                    "free": 1962401792
+                },
+                "timestamp": 1718822596664
+            },
+            {
+                "cpu": {
+                    "percent": 10.74
+                },
+                "mem": {
+                    "free": 1941680128
+                },
+                "timestamp": 1718822598671
+            },
+            {
+                "cpu": {
+                    "percent": 10.42
+                },
+                "mem": {
+                    "free": 1944805376
+                },
+                "timestamp": 1718822600678
+            },
+            {
+                "cpu": {
+                    "percent": 10.25
+                },
+                "mem": {
+                    "free": 1949003776
+                },
+                "timestamp": 1718822602691
+            },
+            {
+                "cpu": {
+                    "percent": 8.98
+                },
+                "mem": {
+                    "free": 1930235904
+                },
+                "timestamp": 1718822604697
+            },
+            {
+                "cpu": {
+                    "percent": 8.47
+                },
+                "mem": {
+                    "free": 1891807232
+                },
+                "timestamp": 1718822606698
+            },
+            {
+                "cpu": {
+                    "percent": 8.39
+                },
+                "mem": {
+                    "free": 1751183360
+                },
+                "timestamp": 1718822608704
+            },
+            {
+                "cpu": {
+                    "percent": 9.91
+                },
+                "mem": {
+                    "free": 2454630400
+                },
+                "timestamp": 1718822610711
+            },
+            {
+                "cpu": {
+                    "percent": 9.85
+                },
+                "mem": {
+                    "free": 2461331456
+                },
+                "timestamp": 1718822612711
+            },
+            {
+                "cpu": {
+                    "percent": 7.64
+                },
+                "mem": {
+                    "free": 2333085696
+                },
+                "timestamp": 1718822614718
+            },
+            {
+                "cpu": {
+                    "percent": 8.97
+                },
+                "mem": {
+                    "free": 2278408192
+                },
+                "timestamp": 1718822616724
+            },
+            {
+                "cpu": {
+                    "percent": 9.35
+                },
+                "mem": {
+                    "free": 2283257856
+                },
+                "timestamp": 1718822618723
+            },
+            {
+                "cpu": {
+                    "percent": 9.77
+                },
+                "mem": {
+                    "free": 2289106944
+                },
+                "timestamp": 1718822620730
+            },
+            {
+                "cpu": {
+                    "percent": 10.49
+                },
+                "mem": {
+                    "free": 3260936192
+                },
+                "timestamp": 1718822622736
+            },
+            {
+                "cpu": {
+                    "percent": 11.72
+                },
+                "mem": {
+                    "free": 3291254784
+                },
+                "timestamp": 1718822623862
+            }
+        ],
+        "workers": 1,
+        "jobs": [
+            {
+                "caseId": "15684a211dfab34fd861",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1718822515038,
+                "duration": 29724
+            },
+            {
+                "caseId": "239352ea8851c8b6ca48",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1718822544768,
+                "duration": 22258
+            },
+            {
+                "caseId": "ff573a56b84fd0c4fcaa",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1718822567030,
+                "duration": 16043
+            },
+            {
+                "caseId": "67af3ab4bc0d8101fb53",
+                "parallelIndex": 0,
+                "workerIndex": 0,
+                "timestamp": 1718822583076,
+                "duration": 39282
+            }
+        ],
+        "cwd": "C:/Users/aravi/Downloads/Projects/Projects/kissflow/kf-qa-sanity-web",
+        "configFile": "ui.cicd.playwright.config.ts",
+        "playwright": "1.44.1",
+        "monocart": "1.7.4",
+        "testDir": "src/tests",
+        "outputFile": "test-results/results/report.html",
+        "outputDir": "test-results/results",
+        "timestampEnd": 1718822623864
+    },
+    "artifacts": [],
+    "trends": [],
+    "columns": [
+        {
+            "id": "caseType",
+            "name": "",
+            "width": 36,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconCaseType",
+            "detailed": false
+        },
+        {
+            "id": "title",
+            "name": "Title",
+            "searchable": true,
+            "width": 350,
+            "maxWidth": 1230,
+            "detailed": false
+        },
+        {
+            "id": "type",
+            "name": "Type",
+            "width": 50,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconType",
+            "detailed": false
+        },
+        {
+            "id": "duration",
+            "name": "Duration",
+            "align": "right",
+            "sortAsc": false,
+            "formatter": "duration",
+            "detailed": false
+        },
+        {
+            "id": "errors",
+            "name": "Errors",
+            "width": 60,
+            "align": "center",
+            "comparer": "errors",
+            "formatter": "errors",
+            "detailed": false
+        },
+        {
+            "id": "logs",
+            "name": "Logs",
+            "width": 60,
+            "align": "center",
+            "comparer": "logs",
+            "formatter": "logs",
+            "detailed": false
+        },
+        {
+            "id": "annotations",
+            "name": "Annotations",
+            "width": 100,
+            "markdown": true,
+            "searchable": true,
+            "comparer": "annotations",
+            "formatter": "annotations",
+            "detailed": false
+        },
+        {
+            "id": "attachments",
+            "name": "Attachments",
+            "width": 100,
+            "align": "center",
+            "formatter": "attachments",
+            "detailed": false
+        },
+        {
+            "id": "status",
+            "name": "Status",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "expectedStatus",
+            "name": "Expected",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "outcome",
+            "name": "Outcome",
+            "align": "center",
+            "width": 85,
+            "detailed": false
+        },
+        {
+            "id": "retry",
+            "name": "Retry",
+            "align": "center",
+            "width": 50,
+            "detailed": false
+        },
+        {
+            "id": "location",
+            "name": "Location",
+            "classMap": "mcr-location",
+            "width": 200,
+            "maxWidth": 1981,
+            "detailed": false
+        }
+    ],
+    "rows": [
+        {
+            "id": "4judrqnello864p9c39g",
+            "title": "suite",
+            "type": "suite",
+            "suiteType": "project",
+            "caseNum": 4,
+            "subs": [
+                {
+                    "id": "72acd34ac4f06272df50",
+                    "title": "makemytrip.sanity.spec.ts",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "caseNum": 4,
+                    "subs": [
+                        {
+                            "id": "72acd34ac4f06272df50",
+                            "title": "Make My Trip Test Suite @serialMakeMyTripTestSuite @sanity",
+                            "type": "suite",
+                            "suiteType": "describe",
+                            "caseNum": 4,
+                            "subs": [
+                                {
+                                    "id": "15684a211dfab34fd861",
+                                    "title": "Validating the search for cheapest flights for round trip @mmt01 @makeMyTrip @sanity",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "src/tests/makemytrip.sanity.spec.ts:68:9",
+                                    "logs": [
+                                        "2024-06-19T18:41:58.207Z info: Dismiss the login banner\r\n",
+                                        "2024-06-19T18:41:59.312Z info: Navigation to top header\r\n",
+                                        "2024-06-19T18:42:00.910Z info: Select the trip type\r\n",
+                                        "2024-06-19T18:42:01.957Z info: Selecting from and to location\r\n",
+                                        "2024-06-19T18:42:06.774Z info: Selecting 'to' location\r\n",
+                                        "2024-06-19T18:42:12.078Z info: Select the month of travel\r\n",
+                                        "2024-06-19T18:42:13.764Z info: Setting up the trip duration\r\n",
+                                        "2024-06-19T18:42:17.119Z info: slider value is:10\r\n",
+                                        "2024-06-19T18:42:17.120Z info: Click on the apply button\r\n",
+                                        "2024-06-19T18:42:17.975Z info: Click on the search button\r\n",
+                                        "2024-06-19T18:42:18.867Z info: Selecting the cheapest flight available\r\n",
+                                        "2024-06-19T18:42:22.781Z info: Minimum price is: 28376\r\n",
+                                        "2024-06-19T18:42:23.606Z info: Found 3 flights.\r\n"
+                                    ],
+                                    "timestamps": [
+                                        1718822515038,
+                                        1718822544762
+                                    ],
+                                    "duration": 29724,
+                                    "timeout": 1800000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 70,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "f3aeaen02ju9eu8aefg9",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 3151,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "5xslponwdjjojfwpq3ab",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 3148,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:17:10",
+                                                    "subs": [
+                                                        {
+                                                            "id": "mmynwfurr8ypt5gn2t19",
+                                                            "title": "fixture: browser",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 175,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "tp7h5yl3ehry18z2f99y",
+                                                                    "title": "browserType.launch",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 173,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "uiagks2vz0gow25lgfbz",
+                                                            "title": "fixture: context",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 22,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "yjjtej5z4m0mztsl20ca",
+                                                                    "title": "browser.newContext",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 10,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "zogv34bbln1xusefrnez",
+                                                            "title": "fixture: page",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 144,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "2n9cu5a2wfsz8nb5djfq",
+                                                                    "title": "browserContext.newPage",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 142,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "yzk0e506wzwioc7qy428",
+                                                            "title": "page.goto(https://www.makemytrip.com)",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2514,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:20:20"
+                                                        },
+                                                        {
+                                                            "id": "8c92uuuyzlbaxcyvnz7p",
+                                                            "title": "page.evaluate",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 269,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:21:20"
+                                                        },
+                                                        {
+                                                            "id": "55pftxvv4lr6s0jc0rub",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2591,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:24:36"
+                                                        },
+                                                        {
+                                                            "id": "ppbqd49th8v646ar6ghj",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 67,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:47:37"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "m1l2j0ln20pknkcv8y83",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "foou6xn2kprh8tmsrt7u",
+                                            "title": "Navigate to flights section",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 2613,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:72:20",
+                                            "subs": [
+                                                {
+                                                    "id": "ya960cjte432ndpbrbmr",
+                                                    "title": "page.waitForSelector(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 138,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:45:25"
+                                                },
+                                                {
+                                                    "id": "ulfkg9d56tjfj27hi70p",
+                                                    "title": "locator.click(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 958,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:46:73"
+                                                },
+                                                {
+                                                    "id": "ldxq2e4gztja5azap825",
+                                                    "title": "locator.click(//span[text()='Flights']/preceding-sibling::span[@class='headerIconWrapper'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1477,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:31:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "zuz66dd6t7c62f1vrozc",
+                                            "title": "expect.toHaveURL",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 116,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:76:28"
+                                        },
+                                        {
+                                            "id": "updf4y8r2j5c1slc0efl",
+                                            "title": "Select the trip type",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1047,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:77:20",
+                                            "subs": [
+                                                {
+                                                    "id": "7lwc9p55y98u1vi9v6wy",
+                                                    "title": "locator.click(//ul[contains(@class,'fswTabs')]//li[@data-cy='roundTrip'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1043,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:62:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "h638jaqvek0m0hd6x7sd",
+                                            "title": "Provide from and to location",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 10122,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:80:20",
+                                            "subs": [
+                                                {
+                                                    "id": "her2vl5yuw7ioxh6hhdz",
+                                                    "title": "locator.click(//input[@id='fromCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 895,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:133:69"
+                                                },
+                                                {
+                                                    "id": "yaxpgcrnoco5yjywqvnt",
+                                                    "title": "locator.getByPlaceholder('From').fill",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 867,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:134:50"
+                                                },
+                                                {
+                                                    "id": "thn67bcjuls98uspm5ub",
+                                                    "title": "locator.click(//ul[@role='listbox']//span[text()='Bengaluru'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 894,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:137:14"
+                                                },
+                                                {
+                                                    "id": "k32yo7mftzxxj9y2v92j",
+                                                    "title": "locator.click(//input[@id='toCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 881,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:152:67"
+                                                },
+                                                {
+                                                    "id": "4og4hpzy8wpbj8myblc4",
+                                                    "title": "locator.click(//p[text()='Planning an international holiday?'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1274,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:153:74"
+                                                },
+                                                {
+                                                    "id": "2y1aqis46qwq5ikrlkdz",
+                                                    "title": "locator.click(//label[text()='TO'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 915,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:168:76"
+                                                },
+                                                {
+                                                    "id": "swhjjwxjt5te14jfbkoa",
+                                                    "title": "keyboard.type(DXB)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1481,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:170:34"
+                                                },
+                                                {
+                                                    "id": "ul8oakfa4ln56dy7hvax",
+                                                    "title": "page.waitForTimeout",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 2014,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:171:25"
+                                                },
+                                                {
+                                                    "id": "po6xpt5tlhuhqqxps25v",
+                                                    "title": "locator.click(//ul[@class='flex-v']//span[text()='DXB'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 855,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:174:14"
+                                                },
+                                                {
+                                                    "id": "7w1n2vgksosdko3r5v0h",
+                                                    "title": "locator.textContent(//label[text()='TRIP TYPE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 13,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:68:72"
+                                                },
+                                                {
+                                                    "id": "ttyuk8blu65qspm9qpvp",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:84:56"
+                                                },
+                                                {
+                                                    "id": "18nqi4jf9etp77g0g4n2",
+                                                    "title": "locator.textContent(//label[text()='FROM']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 11,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:72:73"
+                                                },
+                                                {
+                                                    "id": "8l46fino57iphkvlgzkl",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:85:60"
+                                                },
+                                                {
+                                                    "id": "xvad76ww4ypyb639bfuh",
+                                                    "title": "locator.textContent(//label[text()='TO']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 8,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:76:71"
+                                                },
+                                                {
+                                                    "id": "g2g077j817n9z28fss1n",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:86:58"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "p5plefvi13c4rcz42fk8",
+                                            "title": "Select dates and duration",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1685,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:88:20",
+                                            "subs": [
+                                                {
+                                                    "id": "98pism5om73ox1m2njyn",
+                                                    "title": "locator.click(//label[text()='DATES & DURATION'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 836,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:187:14"
+                                                },
+                                                {
+                                                    "id": "lw6o986m28v6eq8yh349",
+                                                    "title": "locator.click(//ul[@class='monthList']//span[text()='December, 2024'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 846,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:190:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "b03wsee11hzfyslab5f7",
+                                            "title": "Set the trip duration",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 5103,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:91:20",
+                                            "subs": [
+                                                {
+                                                    "id": "fwjtaep2n07w12aj7xlg",
+                                                    "title": "page.waitForSelector(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 16,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:202:25"
+                                                },
+                                                {
+                                                    "id": "qbwcp2jkhazpb6lt8mil",
+                                                    "title": "locator.boundingBox(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 19,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:207:48"
+                                                },
+                                                {
+                                                    "id": "yy1xd88ig69h4cbe1qiy",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 13,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:211:43"
+                                                },
+                                                {
+                                                    "id": "cs864di7g2994i8hnrl1",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 11,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:212:43"
+                                                },
+                                                {
+                                                    "id": "1nd8w50sjmc9woi0vr3z",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:213:52"
+                                                },
+                                                {
+                                                    "id": "jljtgkbqq055n66lwo0d",
+                                                    "title": "mouse.move",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 813,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:217:31"
+                                                },
+                                                {
+                                                    "id": "xil6ivjnaebi34jq4cfk",
+                                                    "title": "mouse.down",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 817,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:218:31"
+                                                },
+                                                {
+                                                    "id": "1iaa0eptrv3x5obhno38",
+                                                    "title": "mouse.move",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 820,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:219:31"
+                                                },
+                                                {
+                                                    "id": "t946rdrzydyh8h4j0wlf",
+                                                    "title": "mouse.up",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 818,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:220:31"
+                                                },
+                                                {
+                                                    "id": "o2ivl9tyvg3nibrsqg4f",
+                                                    "title": "page.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:221:45"
+                                                },
+                                                {
+                                                    "id": "yann6vv9donmqjl794ve",
+                                                    "title": "locator.getByRole('button', { name: 'Apply' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 842,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:238:62"
+                                                },
+                                                {
+                                                    "id": "mrsjk1zbnhcfnl8khcu0",
+                                                    "title": "locator.textContent(//label[text()='DATES & DURATION']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:80:120"
+                                                },
+                                                {
+                                                    "id": "mwvu7hkxavtxmizb612v",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:95:74"
+                                                },
+                                                {
+                                                    "id": "342lnw5pfc7rk2d244k0",
+                                                    "title": "locator.getByRole('button', { name: 'Search' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 888,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:233:63"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "ctkog65l7uzbb91q8jc7",
+                                            "title": "Select the cheapest flight for the search",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 4755,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:98:20",
+                                            "subs": [
+                                                {
+                                                    "id": "d4bojas1ve7ykkho0fmp",
+                                                    "title": "page.waitForTimeout",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 3033,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:258:25"
+                                                },
+                                                {
+                                                    "id": "gzzdzcknwb7qapxal3bk",
+                                                    "title": "page.$$eval(//ul[@class='tripFareCalDates']//li//p[@class='calPrice'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 13,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:259:40"
+                                                },
+                                                {
+                                                    "id": "dltjgd915ouvdufa6ert",
+                                                    "title": "page.$$(ul.tripFareCalDates li)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 18,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:271:44"
+                                                },
+                                                {
+                                                    "id": "orqhpkig82qhgz58wuio",
+                                                    "title": "elementHandle.click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 846,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:272:41"
+                                                },
+                                                {
+                                                    "id": "772kfovwvucnjnj1s79c",
+                                                    "title": "page.waitForSelector(//div[@class='roundTripFlightsSection'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 817,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:275:25"
+                                                },
+                                                {
+                                                    "id": "ay2jj4wxla1g134q69aj",
+                                                    "title": "page.$$(//div[@class='roundTripFlightsSection'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 6,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:276:50"
+                                                },
+                                                {
+                                                    "id": "voq0sxz0rasrj6mn49nw",
+                                                    "title": "locator.isVisible(//p[contains(text(),'United Arab Emirates')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 12,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:245:14"
+                                                },
+                                                {
+                                                    "id": "n4cbvi23vt4iqhvitygr",
+                                                    "title": "expect.toBeTruthy",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:100:87"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "5709r5g2bjeja4w7b0z5",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 1134,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "xuajh8vn6ebejb74yj5h",
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 118,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "jaji3pwu502h4eytaah5",
+                                                    "title": "attach \"screenshot\"",
+                                                    "type": "step",
+                                                    "stepType": "attach",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "chbsvepabrws5t9antwc",
+                                                    "title": "afterEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:196:10"
+                                                },
+                                                {
+                                                    "id": "c4sebxtsreu0l71x68t9",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                },
+                                                {
+                                                    "id": "damltbormk23wsmqglfo",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "yqw6tdzsj8y837vg151f",
+                                                    "title": "fixture: context",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attachments": [
+                                        {
+                                            "name": "screenshot",
+                                            "path": "../../../../test-results/makemytrip.sanity-Make-My--28ee1-rip-mmt01-makeMyTrip-sanity-suite/test-finished-1.png",
+                                            "contentType": "image/png",
+                                            "retry": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "239352ea8851c8b6ca48",
+                                    "title": "Validating the search for one way trip @mmt02 @makeMyTrip @sanity",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "src/tests/makemytrip.sanity.spec.ts:104:9",
+                                    "logs": [
+                                        "2024-06-19T18:42:28.666Z info: Dismiss the login banner\r\n",
+                                        "2024-06-19T18:42:29.718Z info: Navigation to top header\r\n",
+                                        "2024-06-19T18:42:31.120Z info: Select the trip type\r\n",
+                                        "2024-06-19T18:42:32.162Z info: Selecting from and to location\r\n",
+                                        "2024-06-19T18:42:37.229Z info: Selecting 'to' location\r\n",
+                                        "2024-06-19T18:42:42.509Z info: Select the month of travel\r\n",
+                                        "2024-06-19T18:42:44.191Z info: Click on the apply button\r\n",
+                                        "2024-06-19T18:42:45.049Z info: Click on the search button\r\n"
+                                    ],
+                                    "timestamps": [
+                                        1718822544768,
+                                        1718822567026
+                                    ],
+                                    "duration": 22258,
+                                    "timeout": 1800000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 50,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "uch1np6f8zqwsanppohj",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 3901,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "ytflintmkj5ln9kg18zp",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 3900,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:17:10",
+                                                    "subs": [
+                                                        {
+                                                            "id": "7vh61eajrxkpijaam9nj",
+                                                            "title": "fixture: context",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 12,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "q5vls0l2xjfsmngbln78",
+                                                                    "title": "browser.newContext",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 8,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "0bslyw14btvwfjd2tecj",
+                                                            "title": "fixture: page",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 110,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "yi5f7oyxpgmev9zdmimw",
+                                                                    "title": "browserContext.newPage",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 109,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "hwlj6ybjnpkntdc4kj3q",
+                                                            "title": "page.goto(https://www.makemytrip.com)",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 3651,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:20:20"
+                                                        },
+                                                        {
+                                                            "id": "u0cqoxxm3wfocehrg8av",
+                                                            "title": "page.evaluate",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 114,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:21:20"
+                                                        },
+                                                        {
+                                                            "id": "b305mopb6yc46z6irqnc",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2345,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:24:36",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "jhqcurc1oubpj4bftvj5",
+                                                                    "title": "expect.toHaveURL",
+                                                                    "type": "step",
+                                                                    "stepType": "expect",
+                                                                    "duration": 140,
+                                                                    "location": "src/tests/makemytrip.sanity.spec.ts:112:28"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "8chec4fnpyhlsye3ghal",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 28,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:47:37"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "xe4f5j8mgojdplsj4de4",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "wtz1xpo3i8a643gbufcq",
+                                            "title": "Navigate to flights section",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 2314,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:108:20",
+                                            "subs": [
+                                                {
+                                                    "id": "qudfl0upic3v3t1jlok3",
+                                                    "title": "page.waitForSelector(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 131,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:45:25"
+                                                },
+                                                {
+                                                    "id": "sp1lm7xgqnfft1l9x5qx",
+                                                    "title": "locator.click(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 916,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:46:73"
+                                                },
+                                                {
+                                                    "id": "ygbfu4zwrohulsm9fobk",
+                                                    "title": "locator.click(//span[text()='Flights']/preceding-sibling::span[@class='headerIconWrapper'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1258,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:31:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "0mg01l5j9h6ypwvkwwwg",
+                                            "title": "Select the trip type",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1044,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:113:20",
+                                            "subs": [
+                                                {
+                                                    "id": "0s4h3sc56txty5qxmbet",
+                                                    "title": "locator.click(//ul[contains(@class,'fswTabs')]//li[@data-cy='oneWayTrip'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1040,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:62:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "ilv265evkem9boxdjqez",
+                                            "title": "Provide from and to location",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 10347,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:116:20",
+                                            "subs": [
+                                                {
+                                                    "id": "c25wnh9c0ie6pa13ijy3",
+                                                    "title": "locator.click(//input[@id='fromCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 957,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:133:69"
+                                                },
+                                                {
+                                                    "id": "8vs4fyy1k0ousra19c08",
+                                                    "title": "locator.getByPlaceholder('From').fill",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 876,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:134:50"
+                                                },
+                                                {
+                                                    "id": "2d2nug7rxroztatb0oo2",
+                                                    "title": "locator.click(//ul[@role='listbox']//span[text()='Bengaluru'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 891,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:137:14"
+                                                },
+                                                {
+                                                    "id": "8alnnvg5wbrpq2dew71z",
+                                                    "title": "locator.click(//input[@id='toCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 895,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:152:67"
+                                                },
+                                                {
+                                                    "id": "92bu0aw8e87nnonk47w2",
+                                                    "title": "locator.click(//p[text()='Planning an international holiday?'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1441,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:153:74"
+                                                },
+                                                {
+                                                    "id": "n8j0j5aswwruqb8wucan",
+                                                    "title": "locator.click(//label[text()='TO'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 923,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:168:76"
+                                                },
+                                                {
+                                                    "id": "00jfln3rklzlui7zt2jy",
+                                                    "title": "keyboard.type(DXB)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1455,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:170:34"
+                                                },
+                                                {
+                                                    "id": "kearuiyss3jx2kvdro0x",
+                                                    "title": "page.waitForTimeout",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 2012,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:171:25"
+                                                },
+                                                {
+                                                    "id": "a0srzwtjjdbyw1vyeb4j",
+                                                    "title": "locator.click(//ul[@class='flex-v']//span[text()='DXB'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 854,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:174:14"
+                                                },
+                                                {
+                                                    "id": "kubf9icftrm9fq1wyw1p",
+                                                    "title": "locator.textContent(//label[text()='TRIP TYPE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:68:72"
+                                                },
+                                                {
+                                                    "id": "2sxj1h07s1jbyaderox5",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:120:56"
+                                                },
+                                                {
+                                                    "id": "24vah4gohmau14eeiz3q",
+                                                    "title": "locator.textContent(//label[text()='FROM']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 11,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:72:73"
+                                                },
+                                                {
+                                                    "id": "mrgid7vda1hmxkh98qew",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:121:60"
+                                                },
+                                                {
+                                                    "id": "joxshlmu4uxwgfsc4ats",
+                                                    "title": "locator.textContent(//label[text()='TO']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 8,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:76:71"
+                                                },
+                                                {
+                                                    "id": "6y0mkej2tk5b58ispga1",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:122:58"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "ph4j7zhwfbx38zwjnbu4",
+                                            "title": "Select departure month",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 3461,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:124:20",
+                                            "subs": [
+                                                {
+                                                    "id": "4xqet0dbe9ortopfdd6w",
+                                                    "title": "locator.click(//label[text()='DEPARTURE'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 839,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:187:14"
+                                                },
+                                                {
+                                                    "id": "kb2oueqxy9tzjjuqpwjz",
+                                                    "title": "locator.click(//ul[@class='monthList']//span[text()='December, 2024'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 841,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:190:14"
+                                                },
+                                                {
+                                                    "id": "tcv696r30l1nr4p9ihj6",
+                                                    "title": "locator.getByRole('button', { name: 'Apply' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 845,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:238:62"
+                                                },
+                                                {
+                                                    "id": "vlxhe2goveyo3m103nbd",
+                                                    "title": "locator.textContent(//label[text()='DEPARTURE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:80:120"
+                                                },
+                                                {
+                                                    "id": "9cf45ekztj4a9fxstifs",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:127:67"
+                                                },
+                                                {
+                                                    "id": "8e35xwlrbeqv60bj1o2v",
+                                                    "title": "locator.getByRole('button', { name: 'Search' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 883,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:233:63"
+                                                },
+                                                {
+                                                    "id": "bjthj9e6gf1nhevthwy4",
+                                                    "title": "locator.isVisible(//p[contains(text(),'United Arab Emirates')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 34,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:245:14"
+                                                },
+                                                {
+                                                    "id": "u0ed69isz070gtokb1zd",
+                                                    "title": "expect.toBeTruthy",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 3,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:129:87"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "dv5w1mn26iq2a0dt207l",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 1048,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "1899lo9uagek3m8fsspi",
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 119,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "62mgaijnxf9629xfr0x0",
+                                                    "title": "attach \"screenshot\"",
+                                                    "type": "step",
+                                                    "stepType": "attach",
+                                                    "duration": 1,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "t8m8pjdj2i42ajroqolv",
+                                                    "title": "afterEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:196:10"
+                                                },
+                                                {
+                                                    "id": "zh04gw1sytulmfw1p8n8",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                },
+                                                {
+                                                    "id": "sdncrhj6yg7stygrj45n",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "p5zu7p4oithi9nfixytx",
+                                                    "title": "fixture: context",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attachments": [
+                                        {
+                                            "name": "screenshot",
+                                            "path": "../../../../test-results/makemytrip.sanity-Make-My--bbfd4-rip-mmt02-makeMyTrip-sanity-suite/test-finished-1.png",
+                                            "contentType": "image/png",
+                                            "retry": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "ff573a56b84fd0c4fcaa",
+                                    "title": "Validating the search for one way trip with no destination @mmt03 @makeMyTrip @sanity",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "src/tests/makemytrip.sanity.spec.ts:133:9",
+                                    "logs": [
+                                        "2024-06-19T18:42:50.139Z info: Dismiss the login banner\r\n",
+                                        "2024-06-19T18:42:51.368Z info: Navigation to top header\r\n",
+                                        "2024-06-19T18:42:52.732Z info: Select the trip type\r\n",
+                                        "2024-06-19T18:42:53.758Z info: Selecting from and to location\r\n",
+                                        "2024-06-19T18:42:58.940Z info: Select the month of travel\r\n",
+                                        "2024-06-19T18:43:00.616Z info: Click on the apply button\r\n",
+                                        "2024-06-19T18:43:01.457Z info: Click on the search button\r\n"
+                                    ],
+                                    "timestamps": [
+                                        1718822567030,
+                                        1718822583073
+                                    ],
+                                    "duration": 16043,
+                                    "timeout": 1800000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 45,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "kdb6bveruktcwvcs3qpw",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 3110,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "lpsbs66lqsmpyp67icqz",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 3107,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:17:10",
+                                                    "subs": [
+                                                        {
+                                                            "id": "rpjahh0w2zf5zcfearzq",
+                                                            "title": "fixture: context",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 18,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "3jsg52lmdpmjnwt1kpo9",
+                                                                    "title": "browser.newContext",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 11,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "nlycwl6kslppkulxm65o",
+                                                            "title": "fixture: page",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 148,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "l3ib0eev0nwplshb2s6k",
+                                                                    "title": "browserContext.newPage",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 146,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "raukz2vs9nq9quivjpkk",
+                                                            "title": "page.goto(https://www.makemytrip.com)",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2844,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:20:20"
+                                                        },
+                                                        {
+                                                            "id": "vrwyi1irm25knezwqqtt",
+                                                            "title": "page.evaluate",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 82,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:21:20"
+                                                        },
+                                                        {
+                                                            "id": "26tnsswx4wxjiet6r4o6",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2460,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:24:36"
+                                                        },
+                                                        {
+                                                            "id": "sd4kiegtgfxglmmmx63v",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 27,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:47:37"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "79d5rxha4xjc64gblp53",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 2,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "rurdho8k3bkdzslsq4lj",
+                                            "title": "Navigate to flights section",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 2491,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:137:20",
+                                            "subs": [
+                                                {
+                                                    "id": "vu6pg6p58aec73hkf5i7",
+                                                    "title": "page.waitForSelector(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 283,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:45:25"
+                                                },
+                                                {
+                                                    "id": "nkucmo6hrzqqa88e2mt3",
+                                                    "title": "locator.click(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 942,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:46:73"
+                                                },
+                                                {
+                                                    "id": "t76wyxfhe0gv1ept96sf",
+                                                    "title": "locator.click(//span[text()='Flights']/preceding-sibling::span[@class='headerIconWrapper'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1258,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:31:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "wqjyht146l8rutan3ltx",
+                                            "title": "expect.toHaveURL",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 102,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:141:28"
+                                        },
+                                        {
+                                            "id": "5vpr1v3xot7n96i54f17",
+                                            "title": "Select the trip type",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1026,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:142:20",
+                                            "subs": [
+                                                {
+                                                    "id": "bk0cjt302t57l3h8mr0a",
+                                                    "title": "locator.click(//ul[contains(@class,'fswTabs')]//li[@data-cy='oneWayTrip'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1023,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:62:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "pxhjvtutu1ewiuls9yzh",
+                                            "title": "Provide from location",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 5183,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:145:20",
+                                            "subs": [
+                                                {
+                                                    "id": "twbg3m3enfpiuabszsg6",
+                                                    "title": "locator.click(//input[@id='fromCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 926,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:133:69"
+                                                },
+                                                {
+                                                    "id": "b3ei7rxrqu0c87gsauhe",
+                                                    "title": "locator.getByPlaceholder('From').fill",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 844,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:134:50"
+                                                },
+                                                {
+                                                    "id": "muvdnakt6etckmyabfs7",
+                                                    "title": "locator.click(//ul[@role='listbox']//span[text()='Bengaluru'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 899,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:137:14"
+                                                },
+                                                {
+                                                    "id": "lkvvcostjkt3bdyw0err",
+                                                    "title": "locator.click(//input[@id='toCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 925,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:152:67"
+                                                },
+                                                {
+                                                    "id": "pwt6p11mue65zhs24xe5",
+                                                    "title": "locator.click(//p[text()='Planning an international holiday?'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1554,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:153:74"
+                                                },
+                                                {
+                                                    "id": "16njbkcffvdctfaysksj",
+                                                    "title": "locator.textContent(//label[text()='TRIP TYPE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 15,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:68:72"
+                                                },
+                                                {
+                                                    "id": "euvr8dbvq3048s1q68ep",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:148:56"
+                                                },
+                                                {
+                                                    "id": "xmv7xbr1mbc50pagldt7",
+                                                    "title": "locator.textContent(//label[text()='FROM']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 9,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:72:73"
+                                                },
+                                                {
+                                                    "id": "c8nmgbi9vas9pc7ccfuu",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:149:60"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "2xrgsnt95ym6g3rtc6ip",
+                                            "title": "Select departure month",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 3370,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:151:20",
+                                            "subs": [
+                                                {
+                                                    "id": "hrizciq7j3vaczd7sulo",
+                                                    "title": "locator.click(//label[text()='DEPARTURE'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 848,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:187:14"
+                                                },
+                                                {
+                                                    "id": "wu5dxtaulja3f1jp6dd1",
+                                                    "title": "locator.click(//ul[@class='monthList']//span[text()='December, 2024'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 827,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:190:14"
+                                                },
+                                                {
+                                                    "id": "0bjolhoj3yza2k9hwznk",
+                                                    "title": "locator.getByRole('button', { name: 'Apply' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 830,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:238:62"
+                                                },
+                                                {
+                                                    "id": "cfnwba9daf4xevfbx7xm",
+                                                    "title": "locator.textContent(//label[text()='DEPARTURE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 7,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:80:120"
+                                                },
+                                                {
+                                                    "id": "j855tutkx73gcc67vjcu",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:154:67"
+                                                },
+                                                {
+                                                    "id": "cqvdvf46p88b600tp2l1",
+                                                    "title": "locator.getByRole('button', { name: 'Search' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 852,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:233:63"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "whxuiow3nxvethxnkc4y",
+                                            "title": "Select search for anywhere",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 10,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:157:20",
+                                            "subs": [
+                                                {
+                                                    "id": "69kzaz4u6w3fykg9n4gx",
+                                                    "title": "locator.isVisible(//p[contains(text(),'Dubai')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 8,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:245:14"
+                                                },
+                                                {
+                                                    "id": "jxa9ec68ig05ycdt9tj6",
+                                                    "title": "expect.toBeTruthy",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:158:72"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "f3omcixyedytw6sanpls",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 744,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "hkbor254284biivldgu8",
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 76,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "5b82qtdqaszjuf4pu05n",
+                                                    "title": "attach \"screenshot\"",
+                                                    "type": "step",
+                                                    "stepType": "attach",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "7is7csjtnm9ct8gu45zq",
+                                                    "title": "afterEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:196:10"
+                                                },
+                                                {
+                                                    "id": "yi2yfxn6njporljtenyc",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                },
+                                                {
+                                                    "id": "e6rcy48r5u3ciq0rccgw",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "04oxeyy4cgh5yh8ajybk",
+                                                    "title": "fixture: context",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attachments": [
+                                        {
+                                            "name": "screenshot",
+                                            "path": "../../../../test-results/makemytrip.sanity-Make-My--23fad-ion-mmt03-makeMyTrip-sanity-suite/test-finished-1.png",
+                                            "contentType": "image/png",
+                                            "retry": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "67af3ab4bc0d8101fb53",
+                                    "title": "Validating the search for round trip with no destination @mmt04 @makeMyTrip @sanity",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "src/tests/makemytrip.sanity.spec.ts:162:9",
+                                    "logs": [
+                                        "2024-06-19T18:43:25.872Z info: Dismiss the login banner\r\n",
+                                        "2024-06-19T18:43:26.853Z info: Navigation to top header\r\n",
+                                        "2024-06-19T18:43:28.161Z info: Select the trip type\r\n",
+                                        "2024-06-19T18:43:29.287Z info: Selecting from and to location\r\n",
+                                        "2024-06-19T18:43:34.188Z info: Select the month of travel\r\n",
+                                        "2024-06-19T18:43:36.112Z info: Setting up the trip duration\r\n",
+                                        "2024-06-19T18:43:39.473Z info: slider value is:10\r\n",
+                                        "2024-06-19T18:43:39.474Z info: Click on the apply button\r\n",
+                                        "2024-06-19T18:43:40.334Z info: Click on the search button\r\n"
+                                    ],
+                                    "timestamps": [
+                                        1718822583076,
+                                        1718822622358
+                                    ],
+                                    "duration": 39282,
+                                    "timeout": 1800000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 56,
+                                    "stepFailed": 0,
+                                    "stepSubs": true,
+                                    "subs": [
+                                        {
+                                            "id": "zhswfuh229y4dj4lsr69",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 22801,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "uwfbjqiiyclwlw7puhnw",
+                                                    "title": "beforeEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 22800,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:17:10",
+                                                    "subs": [
+                                                        {
+                                                            "id": "1l9pr27ztz8j8llmi4jy",
+                                                            "title": "fixture: context",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 15,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "o4v8322lopwqtp56lpmr",
+                                                                    "title": "browser.newContext",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 10,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "d3nsmnpwh6n1flu1ehau",
+                                                            "title": "fixture: page",
+                                                            "type": "step",
+                                                            "stepType": "fixture",
+                                                            "duration": 125,
+                                                            "location": "",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "wflu0f6v1rag14bhoyek",
+                                                                    "title": "browserContext.newPage",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 124,
+                                                                    "location": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "yrfq5o59pkbl6ls86etb",
+                                                            "title": "page.goto(https://www.makemytrip.com)",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 22620,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:20:20"
+                                                        },
+                                                        {
+                                                            "id": "b9vckxxmwx4ljhae0nen",
+                                                            "title": "page.evaluate",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 28,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:21:20"
+                                                        },
+                                                        {
+                                                            "id": "4lp1410ytck0iyjxojgk",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 2184,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:24:36"
+                                                        },
+                                                        {
+                                                            "id": "x83th06y10rhgdodhdt6",
+                                                            "title": "page.waitForEvent",
+                                                            "type": "step",
+                                                            "stepType": "pw:api",
+                                                            "duration": 200,
+                                                            "location": "src/tests/makemytrip.sanity.spec.ts:47:37"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "ygi1m6gq03c5vwin3rbz",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "mwmwy9yuc93185dtp3wi",
+                                            "title": "Navigate to flights section",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 2195,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:166:20",
+                                            "subs": [
+                                                {
+                                                    "id": "j8y54vsc4ub17cx8jco9",
+                                                    "title": "page.waitForSelector(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 62,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:45:25"
+                                                },
+                                                {
+                                                    "id": "u9bc6blumux1j448buwa",
+                                                    "title": "locator.click(//span[@data-cy='closeModal'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 915,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:46:73"
+                                                },
+                                                {
+                                                    "id": "ee9u3g69p2y2buxv0ddl",
+                                                    "title": "locator.click(//span[text()='Flights']/preceding-sibling::span[@class='headerIconWrapper'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1211,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:31:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "vsmkxblg9bo5ohteglga",
+                                            "title": "expect.toHaveURL",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 93,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:170:28"
+                                        },
+                                        {
+                                            "id": "py42bdvhzbp3oe96fzl0",
+                                            "title": "Select the trip type",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1126,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:171:20",
+                                            "subs": [
+                                                {
+                                                    "id": "ap0svxxrsy5vgby6uinq",
+                                                    "title": "locator.click(//ul[contains(@class,'fswTabs')]//li[@data-cy='roundTrip'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1122,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:62:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "n5ye5n12vuaxlhqs42pf",
+                                            "title": "Provide from location",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 4902,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:174:20",
+                                            "subs": [
+                                                {
+                                                    "id": "xufp9cfvm61g583h7n3o",
+                                                    "title": "locator.click(//input[@id='fromCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 918,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:133:69"
+                                                },
+                                                {
+                                                    "id": "w8a89i5avf7p8vlenrzx",
+                                                    "title": "locator.getByPlaceholder('From').fill",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 849,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:134:50"
+                                                },
+                                                {
+                                                    "id": "gy6l6halt4anwu4417tb",
+                                                    "title": "locator.click(//ul[@role='listbox']//span[text()='Bengaluru'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 891,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:137:14"
+                                                },
+                                                {
+                                                    "id": "2wraz9kp22a33mglxixr",
+                                                    "title": "locator.click(//input[@id='toCity'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 896,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:152:67"
+                                                },
+                                                {
+                                                    "id": "f7kdfrrsmngy6namevb0",
+                                                    "title": "locator.click(//p[text()='Planning an international holiday?'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1243,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:153:74"
+                                                },
+                                                {
+                                                    "id": "1c108dhjnvhpu90qpyfh",
+                                                    "title": "locator.textContent(//label[text()='TRIP TYPE']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 17,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:68:72"
+                                                },
+                                                {
+                                                    "id": "r8mxrdbvyt9j1yl5wux9",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:177:56"
+                                                },
+                                                {
+                                                    "id": "948tjtwuxadq2iwes7rb",
+                                                    "title": "locator.textContent(//label[text()='FROM']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 78,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:72:73"
+                                                },
+                                                {
+                                                    "id": "foiowy0xa0eze62dtvn8",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:178:60"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "urxlzh5o9zjjpn3w01r5",
+                                            "title": "Select dates and duration",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 1924,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:180:20",
+                                            "subs": [
+                                                {
+                                                    "id": "dnmeg4d8xs4jvaqs8wch",
+                                                    "title": "locator.click(//label[text()='DATES & DURATION'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 1042,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:187:14"
+                                                },
+                                                {
+                                                    "id": "2b5d3a8wortl08yrqd4t",
+                                                    "title": "locator.click(//ul[@class='monthList']//span[text()='December, 2024'])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 879,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:190:14"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "n0ar0jox2f73skijzc75",
+                                            "title": "Set the trip duration",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 5114,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:183:20",
+                                            "subs": [
+                                                {
+                                                    "id": "ln5rop5um78k5t6yjmpn",
+                                                    "title": "page.waitForSelector(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 15,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:202:25"
+                                                },
+                                                {
+                                                    "id": "gzcd3zfty7hm1kzisap9",
+                                                    "title": "locator.boundingBox(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 35,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:207:48"
+                                                },
+                                                {
+                                                    "id": "0bixo91y7z3kf7bynclp",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:211:43"
+                                                },
+                                                {
+                                                    "id": "4lxphjlqt41wu7sadyr3",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 9,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:212:43"
+                                                },
+                                                {
+                                                    "id": "36r3g7nnfbtl7xx78ths",
+                                                    "title": "locator.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 9,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:213:52"
+                                                },
+                                                {
+                                                    "id": "qzfqe8328odfj7jwuid5",
+                                                    "title": "mouse.move",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 811,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:217:31"
+                                                },
+                                                {
+                                                    "id": "toko19if0upuo3yx7qww",
+                                                    "title": "mouse.down",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 819,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:218:31"
+                                                },
+                                                {
+                                                    "id": "jj8b3zdfx1lcbmf5zva4",
+                                                    "title": "mouse.move",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 819,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:219:31"
+                                                },
+                                                {
+                                                    "id": "dd22kg9xsj1pi5kf917l",
+                                                    "title": "mouse.up",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 819,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:220:31"
+                                                },
+                                                {
+                                                    "id": "bgnh4nxjcvk22x0apsq2",
+                                                    "title": "page.getAttribute(//div[contains(@class,'sliderFiltersOuter')]//div[contains(@class,'rangeslider-horizontal')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 10,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:221:45"
+                                                },
+                                                {
+                                                    "id": "xts5ql5s1m7viocj3jv4",
+                                                    "title": "locator.getByRole('button', { name: 'Apply' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 842,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:238:62"
+                                                },
+                                                {
+                                                    "id": "qm2ac2pwki7fdx91ird1",
+                                                    "title": "locator.textContent(//label[text()='DATES & DURATION']/following-sibling::div[@class='makeFlex']/span)",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 14,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:80:120"
+                                                },
+                                                {
+                                                    "id": "4iwfpizhl453lexbs3g9",
+                                                    "title": "expect.toEqual",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 1,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:187:74"
+                                                },
+                                                {
+                                                    "id": "ehmumuekocggyy8u1r6i",
+                                                    "title": "locator.getByRole('button', { name: 'Search' }).click",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 890,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:233:63"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "gel7zmemgs1ygxxnhk9d",
+                                            "title": "Select round trip search for anywhere",
+                                            "type": "step",
+                                            "stepType": "test.step",
+                                            "duration": 16,
+                                            "location": "src/tests/makemytrip.sanity.spec.ts:190:20",
+                                            "subs": [
+                                                {
+                                                    "id": "9azqb5qhc0l2zv69seav",
+                                                    "title": "locator.isVisible(//p[contains(text(),'Dubai')])",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 14,
+                                                    "location": "src/page_factory/page_repository/MakeMyTripPage.ts:245:14"
+                                                },
+                                                {
+                                                    "id": "9rlgcuofz4hnzt9juz2h",
+                                                    "title": "expect.toBeTruthy",
+                                                    "type": "step",
+                                                    "stepType": "expect",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:192:72"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "l9207oto3xz21lupd8gj",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 1104,
+                                            "location": "",
+                                            "subs": [
+                                                {
+                                                    "id": "jfyjtzygyftzekqxc9sm",
+                                                    "title": "page.screenshot",
+                                                    "type": "step",
+                                                    "stepType": "pw:api",
+                                                    "duration": 115,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "jde1m2tqc22bn5t11yl7",
+                                                    "title": "attach \"screenshot\"",
+                                                    "type": "step",
+                                                    "stepType": "attach",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "42mv2p2spvrtc95u6uz5",
+                                                    "title": "afterEach hook",
+                                                    "type": "step",
+                                                    "stepType": "hook",
+                                                    "duration": 0,
+                                                    "location": "src/tests/makemytrip.sanity.spec.ts:196:10"
+                                                },
+                                                {
+                                                    "id": "xd93yqnt6oykjx37v5vq",
+                                                    "title": "fixture: makeMyTripPage",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/page_factory/base.ts:8:26"
+                                                },
+                                                {
+                                                    "id": "55j60p9t00l66tmpikcp",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                },
+                                                {
+                                                    "id": "gtvaj2gjgdnqbquuiio2",
+                                                    "title": "fixture: context",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": ""
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attachments": [
+                                        {
+                                            "name": "screenshot",
+                                            "path": "../../../../test-results/makemytrip.sanity-Make-My--e3b89-ion-mmt04-makeMyTrip-sanity-suite/test-finished-1.png",
+                                            "contentType": "image/png",
+                                            "retry": 0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": "src/tests/makemytrip.sanity.spec.ts:8:6"
+                        }
+                    ],
+                    "location": "src/tests/makemytrip.sanity.spec.ts:0:0"
+                }
+            ],
+            "metadata": {}
+        }
+    ],
+    "formatters": {},
+    "suiteTypes": [
+        "project",
+        "file",
+        "describe",
+        "shard"
+    ],
+    "caseTypes": [
+        "passed",
+        "flaky",
+        "skipped",
+        "failed"
+    ],
+    "traceViewerUrl": "https://trace.playwright.dev/?trace={traceUrl}",
+    "tags": {
+        "serialMakeMyTripTestSuite": {
+            "value": 1
+        },
+        "sanity": {
+            "value": 5
+        },
+        "mmt01": {
+            "value": 1
+        },
+        "makeMyTrip": {
+            "value": 4
+        },
+        "mmt02": {
+            "value": 1
+        },
+        "mmt03": {
+            "value": 1
+        },
+        "mmt04": {
+            "value": 1
+        }
+    },
+    "summary": {
+        "tests": {
+            "name": "Tests",
+            "value": 4,
+            "nav": true,
+            "id": "tests"
+        },
+        "passed": {
+            "name": "Passed",
+            "value": 4,
+            "color": "green",
+            "nav": true,
+            "id": "passed",
+            "percent": "100.0%"
+        },
+        "flaky": {
+            "name": "Flaky",
+            "value": 0,
+            "color": "orange",
+            "nav": true,
+            "id": "flaky",
+            "percent": "0.0%"
+        },
+        "skipped": {
+            "name": "Skipped",
+            "value": 0,
+            "color": "gray",
+            "nav": true,
+            "id": "skipped",
+            "percent": "0.0%"
+        },
+        "failed": {
+            "name": "Failed",
+            "value": 0,
+            "color": "#d00",
+            "nav": true,
+            "id": "failed",
+            "percent": "0.0%"
+        },
+        "steps": {
+            "name": "Steps",
+            "value": 221,
+            "id": "steps"
+        },
+        "suites": {
+            "name": "Suites",
+            "value": 1,
+            "id": "suites"
+        },
+        "projects": {
+            "name": "Projects",
+            "description": "Suite type is project",
+            "value": 1,
+            "id": "projects"
+        },
+        "files": {
+            "name": "Files",
+            "description": "Suite type is file",
+            "value": 1,
+            "id": "files"
+        },
+        "describes": {
+            "name": "Describes",
+            "description": "Suite type is describe",
+            "value": 1,
+            "id": "describes"
+        },
+        "shards": {
+            "name": "Shards",
+            "description": "Suite type is shard (only in shading mode)",
+            "value": 0,
+            "id": "shards"
+        },
+        "retries": {
+            "name": "Retries",
+            "value": 0,
+            "id": "retries"
+        },
+        "errors": {
+            "name": "Errors",
+            "value": 0,
+            "id": "errors"
+        },
+        "logs": {
+            "name": "Logs",
+            "value": 37,
+            "id": "logs"
+        },
+        "attachments": {
+            "name": "Attachments",
+            "value": 4,
+            "id": "attachments"
+        }
+    },
+    "pieChart": {
+        "ns": "mcr-pie",
+        "width": 360,
+        "height": 150,
+        "margin": 10,
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">4</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g></g></svg>"
+    }
+}

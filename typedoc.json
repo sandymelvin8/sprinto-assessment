@@ -1,0 +1,63 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "customCss": "./typedoc.theme.css",
+    "plugin": ["@mxssfd/typedoc-theme"],
+    "theme": "my-theme",
+    "entryPoints": ["./src/**/*.ts"],
+    "sort": ["static-first", "kind", "enum-value-ascending"],
+    "out": "./docs",
+    "searchGroupBoosts": {
+        "Classes": 1.5
+    },
+    "exclude": ["./src/page_factory/base.ts", "./src/page_factory/liveBase.ts"]
+}
+
+// {
+//     "$schema": "https://typedoc.org/schema.json",
+//     "customCss": "./typedoc.theme.css",
+//     "plugin": ["@mxssfd/typedoc-theme"],
+//     "theme": "my-theme",
+//     "entryPoints": [
+//         "./src/constants/BrowserConstants.ts",
+//         "./src/constants/CommonConstants.ts",
+//         "./src/constants/FieldsConstants.ts",
+//         "./src/interface/IDate.interface.ts",
+//         "./src/interface/IFieldProperty.interface.ts",
+//         "./src/interface/ILogger.interface.ts",
+//         "./src/libs/APIActions.ts",
+//         "./src/page_factory/object_repository/BoardPageObject.ts",
+//         "./src/page_factory/object_repository/FlowManagerPageObject.ts",
+//         "./src/page_factory/object_repository/HomePageObject.ts",
+//         "./src/page_factory/object_repository/LeftNavPageObject.ts",
+//         "./src/page_factory/object_repository/LoginPageObject.ts",
+//         "./src/page_factory/object_repository/MyItemsPageObject.ts",
+//         "./src/page_factory/object_repository/ProcessFormStudioPageObject.ts",
+//         "./src/page_factory/object_repository/ProcessPageObject.ts",
+//         "./src/page_factory/object_repository/ProcessSettingsPageObject.ts",
+//         "./src/page_factory/object_repository/ProcessTabPageObject.ts",
+//         "./src/page_factory/object_repository/TopNavPageObject.ts",
+//         "./src/page_factory/page_repository/BoardPage.ts",
+//         "./src/page_factory/page_repository/FlowManagerPage.ts",
+//         // "./src/page_factory/page_repository/HomePage.ts",
+//         "./src/page_factory/page_repository/LeftNavPage.ts",
+//         "./src/page_factory/page_repository/LoginPage.ts",
+//         "./src/page_factory/page_repository/MyItemsPage.ts",
+//         "./src/page_factory/page_repository/ProcessFormStudioPage.ts",
+//         "./src/page_factory/page_repository/ProcessPage.ts",
+//         "./src/page_factory/page_repository/ProcessSettingsPage.ts",
+//         "./src/page_factory/page_repository/ProcessTabPage.ts",
+//         "./src/page_factory/page_repository/TopNavPage.ts",
+//         "./src/utils/AllureUtils.ts",
+//         "./src/utils/Browser.ts",
+//         "./src/utils/CommonUtils.ts",
+//         "./src/utils/DateUtils.ts",
+//         "./src/utils/HTMLReporterUtils.ts",
+//         "./src/utils/LoggerUtils.ts",
+//         "./src/utils/TestListener.ts"
+//     ],
+//     "sort": ["static-first", "kind", "enum-value-ascending"],
+//     "out": "./docs",
+//     "searchGroupBoosts": {
+//         "Classes": 1.5
+//     }
+// }
