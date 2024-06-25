@@ -1,0 +1,48 @@
+{
+  "name": "kf-sanity-playwright-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npx rimraf src/data/temp",
+    "allure:generate": "npx allure generate ./allure-results --clean",
+    "test:ui:onetoone": "playwright test --headed --project=Chrome --config=ui.playwright.config.ts --grep @onetoone",
+    "test:ui:onetomany": "playwright test --headed --project=Chrome --config=ui.playwright.config.ts --grep @onetomany",
+    "test:ui": "URL=https://formss.kissflow.com/ playwright test process.spec.ts --headed --project=Chrome --config=ui.playwright.config.ts",
+    "test:api": "playwright test --project=API --config=api.playwright.config.ts",
+    "test": "playwright test --project=suite --config=ui.cicd.playwright.config.ts",
+    "local:test": "playwright test --config=ui.cicd.playwright.config.ts",
+    "report": "allure serve",
+    "report:junit:html": "npx ts-node ./src/utils/HTMLReporterUtils.ts",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix"
+  },
+  "keywords": [],
+  "author": "Melvin",
+  "license": "ISC",
+  "devDependencies": {
+    "@mxssfd/typedoc-theme": "^1.1.1",
+    "@playwright/test": "^1.44.1",
+    "@types/jsonpath": "^0.2.0",
+    "@types/node": "^20.14.2",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "ajv": "^8.12.0",
+    "allure-commandline": "^2.22.1",
+    "axios": "^1.5.1",
+    "eslint": "^8.41.0",
+    "fetch-to-curl": "^0.6.0",
+    "jsonpath": "^1.1.1",
+    "prettier": "^2.8.8",
+    "randomstring": "^1.2.3",
+    "string-format": "^2.0.0",
+    "typedoc": "^0.24.7"
+  },
+  "dependencies": {
+    "allure-playwright": "^2.2.1",
+    "dotenv": "^16.0.3",
+    "jasmine-xml2html-converter": "^0.0.2",
+    "monocart-reporter": "^1.6.22",
+    "winston": "^3.8.2"
+  }
+}
